@@ -1,0 +1,5 @@
+venv
+tempdir
+*pyc
+
+
